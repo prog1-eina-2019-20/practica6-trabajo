@@ -37,4 +37,4 @@ Makefile
 compile_commands.json
 *.mk
 */*.txt
-!datos/
+!datos/*.txt
