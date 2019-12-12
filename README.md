@@ -14,4 +14,4 @@ El fichero ``quijote.txt`` ha sido descargado de la web de [Project Gutenberg](h
 > _Th[ese] eBook[s are] for the use of anyone anywhere at no cost and with
 > almost no restrictions whatsoever.  You may copy [them], give [them] away or
 > re-use [them] under the terms of the Project Gutenberg License included
-> with th[ese] eBook or online at www.gutenberg.net._
+> with th[ese] eBook[s] or online at www.gutenberg.net._
