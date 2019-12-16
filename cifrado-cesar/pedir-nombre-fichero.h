@@ -52,10 +52,10 @@ const char DIR_RESULTADOS[] = "../../resultados/";
  * argumento para el parámetro «mensaje» la cadena de caracteres
  * "Nombre del fichero a cifrar: " y como argumento para el parámetro «interfijo»,
  * la cadena "-cifrado". Cuando se haya ejecutado la función, si el usuario ha
- * escrito "quijote.txt", el valor asignado al argumento correspondiente al
- * parámetro de salida «rutaOrigen» será "../../datos/quijote.txt" y, el valor
- * asignado al argumento correspondiente al parámetro de salida «rutaDestino»
- * será "../../resultados/quijote-cifrado.txt".
+ * escrito en el teclado "quijote.txt", el valor asignado al argumento 
+ * correspondiente al parámetro de salida «rutaOrigen» será
+ * "../../datos/quijote.txt" y, el valor asignado al argumento correspondiente al
+ * parámetro de salida «rutaDestino» será "../../resultados/quijote-cifrado.txt".
  */
 void pedirNombreFichero(const char mensaje[], const char interfijo[],
                         char rutaOrigen[], char rutaDestino[]);
